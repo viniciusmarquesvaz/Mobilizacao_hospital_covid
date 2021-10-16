@@ -1,7 +1,6 @@
 # Mobilizacao_hospital_covid
 
 ##Requisitos:
-
     - Tem Febre? (5 pontos)
     - Tem dor de cabeça? (1 ponto)
     - Tem secreção nasal ou espirros? (1 ponto)
